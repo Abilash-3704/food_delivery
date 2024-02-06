@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.navbar {
+  width: 100%;
+  min-width: 60%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar h1 {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
